@@ -5,6 +5,7 @@ Lockdown is a plugin that will easily secure your RapidWeaver pages.
 
 ![Lockdown Icon](https://raw.githubusercontent.com/yourhead/lockdown/master/assets/icon_256.png)
 
+
 ## Download
  Soon.
 
