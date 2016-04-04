@@ -8,7 +8,7 @@ Lockdown is a plugin that will easily secure your RapidWeaver pages.
 
 ## Download
  - [Stable Release v2.90.7](https://github.com/yourhead/lockdown/raw/v2.90.7/downloads/lockdown_2.90.7.zip)
- - [Beta Release v3.0.0 beta 1](https://github.com/yourhead/lockdown/raw/master/downloads/Lockdown_3.0.0b1_1043.zip) -- [Release Notes](http://yourhead.com/appcast/RW6/Lockdown/release_notes_3.0.0b1_1043)
+ - [Beta Release v3.0.0 beta 2](https://github.com/yourhead/lockdown/raw/v3.0.0b2/downloads/Lockdown_3.0.0b2_1064.zip) -- [Release Notes](http://yourhead.com/appcast/RW6/Lockdown/release_notes_3.0.0b2_1064)
 
 
 ### From the LogHound site
