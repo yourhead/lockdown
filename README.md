@@ -3,13 +3,11 @@
 #### originally by LogHound
 Lockdown is a plugin that will easily secure your RapidWeaver pages.
 
-![Lockdown Icon](https://raw.githubusercontent.com/yourhead/lockdown/master/assets/icon_256.png)
-
-
 ## Download
  - [Stable Release v2.90.7](https://github.com/yourhead/lockdown/raw/v2.90.7/downloads/lockdown_2.90.7.zip)
  - [Beta Release v3.0.0 beta 2](https://github.com/yourhead/lockdown/raw/v3.0.0b2/downloads/Lockdown_3.0.0b2_1064.zip) -- [Release Notes](http://yourhead.com/appcast/RW6/Lockdown/release_notes_3.0.0b2_1064)
 
+<img src='https://raw.githubusercontent.com/yourhead/lockdown/master/assets/icon_256.png' width=256 >
 
 ### From the LogHound site
 
