@@ -1,4 +1,7 @@
 # Lockdown
+
+> Lockdown has reached end-of-life. We are winding this product down. It will still be available for purchase for a short while after which we will continue to offer support for it for as long as we can. However we are recommending users move to other products that similar functionality. Check the RapidWeaver Commmunity pages, there are a number available today.
+
 ### Secure your pages.
 #### originally by LogHound
 Lockdown is a plugin that will easily secure your RapidWeaver pages.
